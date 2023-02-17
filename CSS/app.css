@@ -1,0 +1,21 @@
+h1 {
+    color: #5FCFFC;
+    text-align: center;
+    text-decoration: wavy underline;
+    letter-spacing: 15px;
+    font-family: fantasy;
+}
+
+button {
+    color: #ff00ff;
+    background-color: #00ffff;
+}
+
+p {
+    color: #808000;
+    line-height: 2;
+}
+
+a {
+    text-decoration: none;
+}

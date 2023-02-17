@@ -1,0 +1,51 @@
+/* * {
+    background-color: teal;
+} */
+
+/* button {
+    font-size: 30px;
+} */
+
+/* h1, h2 {
+    color: palegreen;
+} */
+
+body {
+    background-color: #f1faee;
+}
+button {
+    font-size: 30px;
+    background-color: #8ecae6 ;
+}
+
+h1, h2 {
+    color: #023047 ;
+}
+
+#signup {
+    background-color: #2b2d42 ;
+    color: #fefae0;
+}
+
+.tag {
+    background-color: #d62828;
+    color: #edf2f4;
+    font-size: 16px;
+}
+
+.post a {
+    color: d#0096c7;
+}
+
+footer a {
+    color: black;
+}
+
+a:hover {
+    color: orange;
+}
+
+button:hover {
+    background-color: #ef233c;
+    color:#f1faee;
+}
